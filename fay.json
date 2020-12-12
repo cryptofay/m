@@ -1,6 +1,7 @@
 {
 "name": "Cryptofay",
-"description": "The very first pool on Cardano that also shares rewards with the world. Learn about our mission via cryptofay.io",
+"description": "AWS hosted automated and monitored pool with best industry practices, see more at: cryptofay.io",
 "ticker": "FAY",
-"homepage": "https://cryptofay.io"
+"homepage": "https://cryptofay.io",
+"extended": "https://raw.githubusercontent.com/cryptofay/m/master/af.json"
 }
